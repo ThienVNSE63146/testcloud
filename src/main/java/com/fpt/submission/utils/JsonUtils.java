@@ -11,6 +11,7 @@ import java.util.*;
 @SuppressWarnings({"deprecation", "serial"})
 public class JsonUtils extends UntypedObjectDeserializer {
 
+    
     @Override
     @SuppressWarnings({"unchecked", "rawtypes"})
     protected Object mapObject(JsonParser p, DeserializationContext ctxt) throws IOException {
