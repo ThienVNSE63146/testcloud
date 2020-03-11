@@ -1,0 +1,20 @@
+SE63155
+checkQuestion4(): Passed 
+checkQuestion3(): Passed 
+checkQuestion1(): Passed 
+checkQuestion2(): Passed 
+Time : 2020-02-21 09:50:58
+Result : 4 / 4
+Total : 10.0
+endSE63155
+
+SE63155
+checkQuestion4(): Passed 
+checkQuestion3(): Passed 
+checkQuestion1(): Passed 
+checkQuestion2(): Passed 
+Time : 2020-02-21 10:20:24
+Result : 4 / 4
+Total : 10.0
+endSE63155
+
